@@ -493,7 +493,7 @@ def player_name_array_method
   all_players.map do |player_hash|
     
   
-  
+  end 
 end
 
 # 3. Convert each one to an each

@@ -479,7 +479,6 @@ def assists_select(int)
     if player_hash[:assists] > int
       new_array << player_hash[:player_name]
     end 
-  end
   return new_array
 end
 
